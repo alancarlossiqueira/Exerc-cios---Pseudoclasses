@@ -1,0 +1,19 @@
+a {
+    color: #1f295c;
+}
+a:hover {
+    color:#1f295c2e
+}
+.main p:first-of-type:first-letter {
+font-size: 3em;
+font-family:'times new roman', times, serif;
+float: left;
+}
+.designer-selection li {
+    border-top: #1f295c 1px;
+    padding-top: 5px;
+}
+.designer-selection li:last-of-type {
+    border-bottom: #1f295c solid 1px;
+    padding-bottom: 5px;
+}
